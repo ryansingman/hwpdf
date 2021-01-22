@@ -55,7 +55,7 @@ if __name__ == "__main__":
     
     import argparse
 
-    parser = arparse.ArgumentParser()
+    parser = argparse.ArgumentParser()
     parser.add_argument(
         "--uname",
         default="ryanjs",
