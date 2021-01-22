@@ -1,5 +1,5 @@
 # hwpdf
-Create pdf from images in a directory
+Creates a pdf from images in a directory
 
 ## Usage
 ```
